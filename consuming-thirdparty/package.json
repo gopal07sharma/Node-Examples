@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "zuxxy-calc": "^1.0.1"
+  },
+  "name": "consuming-thirdparty",
+  "version": "1.0.0",
+  "main": "myCalc.js",
+  "devDependencies": {},
+  "type":"module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
